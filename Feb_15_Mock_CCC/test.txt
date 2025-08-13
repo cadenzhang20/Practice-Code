@@ -1,0 +1,32 @@
+LMS: 0
+LSM: 1
+MLS: 1
+MSL: 2
+SLM: 2
+SML: 1
+
+MSLSLMMSLSLM
+
+MSLS: 3
+LMMS: 2
+LSLM: 3
+
+SMMLLMLMSMLSMMSMSL
+
+L L M M S
+L L M M M M S S
+L M M S S
+
+SMMLLMLMSMLSMMSMLL
+L L M M M S
+L L M M M M S S
+L L M S
+
+step 1:
+lars of 2 swap with meds of 1
+lars 2 <= lars 1 and meds 1 <= meds 2:
+    lars 1 += lars 2
+    meds 2 += meds 1
+    lars 2, meds 1 = 0, 0
+
+
