@@ -1,4 +1,5 @@
 # https://dmoj.ca/problem/electricity
+# Not completed
 
 for _ in range(int(input())):
     home_count = int(input())

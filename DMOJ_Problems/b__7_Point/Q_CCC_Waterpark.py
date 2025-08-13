@@ -1,5 +1,4 @@
 # https://dmoj.ca/problem/ccc07s4
-# Thu Jul 4
 
 from collections import defaultdict
 

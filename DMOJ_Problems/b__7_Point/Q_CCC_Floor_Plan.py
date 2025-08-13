@@ -1,5 +1,4 @@
 # https://dmoj.ca/problem/ccc03s3
-# Thu Jul 4
 
 tiles = int(input())
 rows = int(input())

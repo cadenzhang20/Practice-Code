@@ -1,4 +1,5 @@
 # https://dmoj.ca/problem/ccc12s3
+# Not completed
 
 count_reading = int(input())
 

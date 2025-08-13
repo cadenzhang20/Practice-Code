@@ -1,4 +1,5 @@
 # https://dmoj.ca/problem/ccc00s4
+# Not completed
 
 distance, count = int(input()), int(input())
 clubs = sorted([int(input()) for _ in range(count)])

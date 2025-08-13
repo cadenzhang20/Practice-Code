@@ -1,3 +1,5 @@
+# https://dmoj.ca/problem/ccc20j2
+
 t, s, g = [int(input()) for _ in range(3)]
 d = 0
 nt = s

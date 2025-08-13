@@ -1,3 +1,6 @@
+# https://dmoj.ca/problem/ccc21j4
+# Not completed
+
 shelf = list(input())
 swaps = 0
 

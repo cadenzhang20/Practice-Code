@@ -1,3 +1,5 @@
+# https://dmoj.ca/problem/mci2p3
+
 bas, dire = input().split()
 dire = 0 if dire == "ns" else 1
 

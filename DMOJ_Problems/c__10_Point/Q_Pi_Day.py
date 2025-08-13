@@ -1,5 +1,4 @@
 # https://dmoj.ca/problem/ccc15j5
-# Sept 6th, 2024
 
 slices, people = int(input()), int(input())
 mem = {}
